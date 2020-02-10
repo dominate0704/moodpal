@@ -1,0 +1,8 @@
+<svg id="Logo" xmlns="http://www.w3.org/2000/svg" width="270" height="141" viewBox="0 0 270 141">
+  <circle id="Ellipse_1" data-name="Ellipse 1" cx="45" cy="45" r="45" transform="translate(90)" fill="#007cb4"/>
+  <circle id="Ellipse_2" data-name="Ellipse 2" cx="30" cy="30" r="30" transform="translate(0 15)" fill="#0b795b"/>
+  <circle id="Ellipse_3" data-name="Ellipse 3" cx="10" cy="10" r="10" transform="translate(65 35)" fill="#02a25e"/>
+  <circle id="Ellipse_4" data-name="Ellipse 4" cx="25" cy="25" r="25" transform="translate(185 20)" fill="#653434"/>
+  <circle id="Ellipse_5" data-name="Ellipse 5" cx="15" cy="15" r="15" transform="translate(240 30)" fill="#adadad"/>
+  <text id="MOODPAL" transform="translate(38 133)" fill="#212121" font-size="32" letter-spacing="0.2em"><tspan x="0" y="0">MOODPAL</tspan></text>
+</svg>
